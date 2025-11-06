@@ -1,6 +1,6 @@
 ##This is script to generate cellrange counts for RNA and ADT assay
 #Creating a feature_ref.csv file is must
-#
+#Total_SEqC panel for ADTs used to generate feature_ref.csv is added as well
 
 #!/bin/bash -l
 #SBATCH --job-name=MDS_CRmulti
